@@ -5,9 +5,11 @@ Daha sonra projeye listenin içindeki her kelimenin İnglizce dilinde telaffuzu 
 Ekran kaydı:
 
 <figure>
-<video src="video.mp4" width="320" height="200" controls preload></video>
- <figcaption>
- <p></p> 
+    <div class="myvideo">
+       <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
+           <source src="./video.mp4" type="video/mp4" />
+          </video>
+    </div>
  </figcaption>
 </figure>
 
