@@ -4,7 +4,7 @@ Daha sonra projeye listenin içindeki her kelimenin İnglizce dilinde telaffuzu 
 
 Ekran kaydı:
 
-<video src="./video.mp4" width="320" height="200" controls preload></video>
+<video src="video.mp4" width="320" height="200" controls preload></video>
 
 Ana sayfa :
 
