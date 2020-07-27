@@ -4,7 +4,7 @@ Daha sonra projeye listenin içindeki her kelimenin İnglizce dilinde telaffuzu 
 Ana sayfa :
 
 <figure>
- <img src="./ana_ekran.png" width="560" alt="MainActivity Image" />
+ <img src="./ana_ekran.png" width="400" alt="MainActivity Image" />
  <figcaption>
  <p></p> 
  </figcaption>
@@ -14,7 +14,7 @@ Ana sayfa :
 Sayılar Aktivitesi(Numbers Activity) :
 
 <figure>
- <img src="./numbers_Activity.png" width="1072" alt="NumbersActivity Image" />
+ <img src="./numbers_Activity.png" width="400" alt="NumbersActivity Image" />
  <figcaption>
  <p></p> 
  </figcaption>
@@ -24,7 +24,7 @@ Sayılar Aktivitesi(Numbers Activity) :
 Renkler Aktivitesi (Colors Activity) :
 
 <figure>
- <img src="./colors_activity.png" width="1072" alt="ColorsActivity Image" />
+ <img src="./colors_activity.png" width="400" alt="ColorsActivity Image" />
  <figcaption>
  <p></p> 
  </figcaption>
@@ -33,7 +33,7 @@ Renkler Aktivitesi (Colors Activity) :
 Aile Üyeleri Aktivitesi (Family Activity) :
 
 <figure>
- <img src="./family_activity.png" width="1072" alt="FamilyActivity Image" />
+ <img src="./family_activity.png" width="400" alt="FamilyActivity Image" />
  <figcaption>
  <p></p> 
  </figcaption>
@@ -43,7 +43,7 @@ Aile Üyeleri Aktivitesi (Family Activity) :
 Yiyecekler Aktivitesi (Foods Activity) :
 
 <figure>
- <img src="./foods_activity.png" width="1072" alt="FoodsActivity Image" />
+ <img src="./foods_activity.png" width="400" alt="FoodsActivity Image" />
  <figcaption>
  <p></p> 
  </figcaption>
@@ -52,7 +52,7 @@ Yiyecekler Aktivitesi (Foods Activity) :
 Diyaloglar Aktivitesi (Phrases Activity) :
 
 <figure>
- <img src="./phrases_activity.png" width="1072" alt="PhrasesActivity Image" />
+ <img src="./phrases_activity.png" width="400" alt="PhrasesActivity Image" />
  <figcaption>
  <p></p> 
  </figcaption>
