@@ -1,6 +1,17 @@
 Bu projede birden fazla 'Activity' oluşturarak ArrayList kullanarak bir list_view yardımıyla ilk olarak bir kelimenin Türkçe ve İnglizce karşılığını yazdırdım.
 Daha sonra projeye listenin içindeki her kelimenin İnglizce dilinde telaffuzu olan ses dosyaları ekledim.
 
+
+Ekran kaydı:
+
+<figure>
+ <img src="./video.mp4" width="400" alt="Video" />
+ <figcaption>
+ <p></p> 
+ </figcaption>
+</figure>
+
+
 Ana sayfa :
 
 <figure>
