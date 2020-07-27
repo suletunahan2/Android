@@ -4,13 +4,7 @@ Daha sonra projeye listenin içindeki her kelimenin İnglizce dilinde telaffuzu 
 
 Ekran kaydı:
 
-<figure>
- <img src="./video.mp4" width="400" alt="Video" />
- <figcaption>
- <p></p> 
- </figcaption>
-</figure>
-
+<video src="./video.mp4" width="320" height="200" controls preload></video>
 
 Ana sayfa :
 
