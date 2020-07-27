@@ -17,7 +17,7 @@ Ekran görüntüleri:
 
 
 <figure>
- <img src="./before_email.png" width="400" alt="Before Email Image" />
+ <img src="./before_email.png" width="500" alt="Before Email Image" />
  <figcaption>
  <p></p> 
  </figcaption>
