@@ -1,0 +1,1 @@
+Android framework de butonları,edittext,textview,checkbox kullandım.
