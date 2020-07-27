@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Uygulama</string>
+    <string name="thank_you" translatable="false">Teşekkürler..</string>
+    <string name="order_summary_name" translatable="false">İsim</string>
+    <string name="whipped_cream">Krema</string>
+    <string name="chocolate">Çikolata</string>
+    <string name="toppings">Süsleme</string>
+    <string name="quantity">Adet</string>
+    <string name="initial_quantity_value">0</string>
+    <string name="order">Sipariş Et</string>
+    <string name="order_summary_whipped_cream">"Krema eklendi mi? "</string>
+    <string name="order_summary_chocolate">"Çikolata eklendi mi? "</string>
+    <string name="order_summary_quantity">"Adet: "</string>
+    <string name="order_summary_price">"Toplam: "</string>
+    <string name="order_summary_email_subject">Uygulama Mesajı</string>
+    <string name="name">İsim</string>
+    <string name="order_summary">Sipariş Özeti</string>
+</resources>
