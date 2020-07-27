@@ -4,7 +4,7 @@ Daha sonra projeye listenin içindeki her kelimenin İnglizce dilinde telaffuzu 
 Ana sayfa :
 
 <figure>
- <img src="./ana_ekran.png" width="1072" alt="MainActivity Image" width="20%"/>
+ <img src="./ana_ekran.png" width="1072" alt="MainActivity Image" height="20%"/>
  <figcaption>
  <p></p> 
  </figcaption>
